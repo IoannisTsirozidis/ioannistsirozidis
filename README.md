@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm **Ioannis**, a second-year undergraduate in the Department of Computer Science, AUTH. Nice, meeting you!
+I'm **Ioannis**, a second-year undergraduate in the Department of Computer Science, AUTH. <br /> Get to know me a bit better at: https://ioannistsirozidis.github.io/
 <!--
 Here are some ideas to get you started:
 <!--
