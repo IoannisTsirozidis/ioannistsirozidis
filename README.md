@@ -1,5 +1,5 @@
 ### <h2>Hi there! 👋</h2>
-<h3> I'm **Ioannis**, a second-year undergraduate in the Department of Computer Science, AUTH.</h3> <br/><br/> Get to know me a bit better at: https://ioannistsirozidis.github.io/
+I'm **Ioannis**, a second-year undergraduate in the Department of Computer Science, AUTH. <br/> Get to know me a bit better at: https://ioannistsirozidis.github.io/
 <!--
 Here are some ideas to get you started:
 <!--
