@@ -5,10 +5,11 @@ I'm **Ioannis**, a third-year undergraduate in the Department of Computer Scienc
 - 🌱 I’m currently learning number theory and Cryptography.
 - 💬 I’m looking forward to collaborate and implement, in practice, my knowledge on Networking and\or Data Analysis.
 
-
--💡 "People confuse programming with coding.
-      Coding is to programming, what typing is to writing.
-      Writing, is something that envolves mental effort.
-      In the same way, programs are built on ideas."
+<br />
+<br />
+-💡 "People confuse programming with coding.<br />
+      Coding is to programming, what typing is to writing.<br />
+      Writing, is something that envolves mental effort.<br />
+      In the same way, programs are built on ideas."<br />
 
 ~Leslie Lamport
