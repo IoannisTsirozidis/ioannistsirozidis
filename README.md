@@ -8,8 +8,8 @@ I'm **Ioannis**, a third-year undergraduate in the Department of Computer Scienc
 <br />
 <br />
 -💡 "People confuse programming with coding.<br />
-      Coding is to programming, what typing is to writing.<br />
-      Writing, is something that envolves mental effort.<br />
-      In the same way, programs are built on ideas."<br />
+&nbsp;&nbsp;&nbsp;&nbsp      Coding is to programming, what typing is to writing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp      Writing, is something that envolves mental effort.<br />
+&nbsp;&nbsp;&nbsp;&nbsp      In the same way, programs are built on ideas."<br />
 
 ~Leslie Lamport
