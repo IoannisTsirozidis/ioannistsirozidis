@@ -8,5 +8,5 @@ I'm **Ioannis**, a final-year undergraduate in the Department of Computer Scienc
 <br />
 <br />
 
--💡 "Remember, if a cybersecurity expert ever says 'trust me,' quickly check your firewall settings..!👀<br />
+-💡 "Remember, if a cybersecurity expert ever says 'trust me,' quickly check your firewall settings..!👀"<br />
 ~Can't recall the poet.
