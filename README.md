@@ -1,9 +1,9 @@
 ### <h2>Hi there! 👋</h2>
-I'm **Ioannis**, a third-year undergraduate in the Department of Computer Science, AUTH. <br/>
+I'm **Ioannis**, a final-year undergraduate in the Department of Computer Science, AUTH. <br/>
 
-- 🔭 I’m currently working on deeper understanding Networking principles, finishing Machine Learning projects and Pattern Recognition.
-- 🌱 I’m currently learning number theory and Cryptography.
-- 💬 I’m looking forward to collaborate and implement, in practice, my knowledge on Networking and\or Data Analysis.
+- 🔭 My current focus is on expanding my knowledge of networking principles, enhancing my skills as a SOC Analyst, and Cybersecurity terminology.
+- 🌱 Actively learning about SIEM/SOAR technologies, as well as Log Analysis and Incident Response tools.
+- 💬 I’m looking forward to collaborate and implement my knowledge on Networking and\or Security Operations in real-world scenarios.
 
 <br />
 <br />
