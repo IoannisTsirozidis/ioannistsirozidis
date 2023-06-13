@@ -2,7 +2,7 @@
 I'm **Ioannis**, a final-year undergraduate in the Department of Computer Science, AUTH. <br/>
 
 - 🔭 My current focus is on expanding my knowledge of networking principles, enhancing my skills as a SOC Analyst, and Cybersecurity terminology.
-- 🌱 Actively learning about SIEM/SOAR technologies, as well as Log Analysis and Incident Response tools.
+- 🌱 Actively learning about SIEM/SOAR technologies, as well as Log Analysis tools and Incident Response frameworks.
 - 💬 I’m looking forward to collaborate and implement my knowledge on Networking and\or Security Operations in real-world scenarios.
 
 <br />
